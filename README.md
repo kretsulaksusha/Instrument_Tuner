@@ -14,3 +14,22 @@ empowering musicians to tune their instruments while allowing customization of t
 parameters effortlessly. Through a review of existing tuners, we identify areas for im-
 provement and innovative features. We then explore signal processing techniques and
 select appropriate algorithms to achieve our goal efficiently.
+
+## GUI
+
+<p float="left">
+  <img src="documentation/main.png" width="300" />
+  <img src="documentation/a4.png" width="300" /> 
+</p>
+
+## Usage
+
+Firstly install requirements for the app to run correctly:
+```
+pip3 install -r requirements.txt
+```
+
+Then you can start the app:
+```
+python3 main.py
+```
